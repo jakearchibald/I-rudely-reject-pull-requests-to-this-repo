@@ -1,2 +1,2 @@
-# I-rudely-reject-pull-requests-to-this-repo
-I will rudely and childishly reject pull requests to the repo
+# I rudely reject pull requests to this repo
+Its fucking perfect as it is.
