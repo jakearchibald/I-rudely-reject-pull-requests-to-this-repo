@@ -1,0 +1,23 @@
+{
+  "name": "i-rudely-reject-pull-requests-to-this-repo",
+  "version": "1.0.0",
+  "description": "Fuck you I won't do what you tell me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakearchibald/I-rudely-reject-pull-requests-to-this-repo.git"
+  },
+  "keywords": [
+    "fuck",
+    "you"
+  ],
+  "author": "jakeisbald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakearchibald/I-rudely-reject-pull-requests-to-this-repo/issues"
+  },
+  "homepage": "https://github.com/jakearchibald/I-rudely-reject-pull-requests-to-this-repo#readme"
+}

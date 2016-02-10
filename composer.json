@@ -1,0 +1,14 @@
+{
+    "name": "jakeisbald/i-rudely-reject-pull-requests-to-this-repo",
+    "description": "Fuck you I won't do what you tell me.",
+    "type": "library",
+    "license": "FU",
+    "authors": [
+        {
+            "name": "jakeisbald",
+            "email": "jakeisbald@github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
