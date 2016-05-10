@@ -1,2 +1,1 @@
-# I rudely reject pull requests to this repo
-Its fucking perfect as it is.
+# That is no reason to shit on github
