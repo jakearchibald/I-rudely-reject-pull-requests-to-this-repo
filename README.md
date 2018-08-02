@@ -1,2 +1,2 @@
-# I rudely reject pull requests to this repo
-Its fucking perfect as it is.
+# I happily merge pull requests to this repo
+Its fucking mess as it is.
